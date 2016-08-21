@@ -1,0 +1,5 @@
+bomo_api:
+    resource: "@BOMOApiBundle/Resources/config/routing.yml"
+    type:     rest
+    prefix:   /
+
